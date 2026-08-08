@@ -11,7 +11,28 @@ A collection of Machine Learning laboratory experiments implemented using Python
 * Matplotlib
 * Scikit-learn
 
+## Repository Contents
 
+* Experiment-wise Jupyter Notebooks
+* Machine Learning algorithm implementations
+* Python code with explanations
+* Data visualization
+* Model evaluation techniques
+* Supporting notes and documentation
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/<your-username>/machine-learning-lab.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd machine-learning-lab
+```
 
 Install the required packages:
 
