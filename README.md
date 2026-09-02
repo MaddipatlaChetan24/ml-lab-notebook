@@ -25,7 +25,7 @@ A collection of Machine Learning laboratory experiments implemented using Python
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/machine-learning-lab.git
+git clone https://github.com/<MaddipatlaChetan24>/machine-learning-lab.git
 ```
 
 Navigate to the project directory:
