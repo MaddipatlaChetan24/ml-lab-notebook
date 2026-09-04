@@ -13,23 +13,6 @@ A collection of Machine Learning laboratory experiments implemented using Python
 
 ## 
 
-Clone the repository:
-
-```bash
-git clone https://github.com/<MaddipatlaChetan24>/machine-learning-lab.git
-```
-
-Navigate to the project directory:
-
-```bash
-cd machine-learning-lab
-```
-
-Install the required packages:
-
-```bash
-pip install numpy pandas matplotlib scikit-learn jupyter
-```
 
 Launch Jupyter Notebook:
 
