@@ -11,16 +11,7 @@ A collection of Machine Learning laboratory experiments implemented using Python
 * Matplotlib
 * Scikit-learn
 
-## Repository Contents
-
-* Experiment-wise Jupyter Notebooks
-* Machine Learning algorithm implementations
-* Python code with explanations
-* Data visualization
-* Model evaluation techniques
-* Supporting notes and documentation
-
-## Getting Started
+## 
 
 Clone the repository:
 
